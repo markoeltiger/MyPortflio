@@ -54,7 +54,7 @@ fun Experience() {
                 text = Constants.EXPERIENCE_SECTION_TEXT
             )
             SpanText(
-                text = Constants.FIVE_MONTH,
+                text = Constants.THREE_YEARS,
                 modifier = Modifier
                     .color(
                         when (ColorMode.current) {

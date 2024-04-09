@@ -64,7 +64,7 @@ fun Home() {
                     .fontWeight(FontWeight.Bold)
             )
             SpanText(
-                text = Constants.BINAY_SHAW,
+                text = Constants.MARK_SAIF,
                 modifier = UserNameStyle.toModifier()
                     .color(
                         when (ColorMode.current) {

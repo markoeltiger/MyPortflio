@@ -14,21 +14,21 @@ fun getAllProjects() =
 fun getAllWorkExperience() = listOf(
     WorkExperience(
         sequenceNumber = "01",
-        role = "Software Developer Intern",
-        organization = "IONAGE",
-        duration = "July 23 - Present"
+        role = "Senior Android Developer",
+        organization = "Orange",
+        duration = "Dec 23 - Present"
     ),
     WorkExperience(
         sequenceNumber = "02",
-        role = "Software Developer Intern",
-        organization = "Humara Nagar",
-        duration = "Jan 23 - Mar 23"
+        role = "Android Developer",
+        organization = "TryCar",
+        duration = "May 23 - Dec 23"
     ),
     WorkExperience(
         sequenceNumber = "03",
-        role = "Software Developer Intern",
-        organization = "Edvora",
-        duration = "Oct 22 - Nov 22"
+        role = "Android Developer ",
+        organization = "HmaServ",
+        duration = "Oct 22 - May 23"
     )
 )
 
