@@ -31,7 +31,7 @@ object Constants {
 
     const val PHOTOGRAPH_TITLE = "Sometimes I love to click."
 
-    const val PROJECT_TITLE = "My Side Projects."
+    const val PROJECT_TITLE = "My Projects.(Side , OpenSource which I am contributing to)"
     const val PROJECT_SECTION_TEXT = "I really have a bad habit of creating projects over projects XD"
     const val PROJECT_REPOSITORIES_URL = "https://github.com/markoeltiger?tab=repositories"
     const val MORE_ON_GITHUB = "More on GitHub."
